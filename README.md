@@ -1,2 +1,4 @@
-# python_crash_course
-Notes, exercises, and projects from Python Crash Course by Eric Matthews
+# README
+
+This repository contains notes, exercises, and projects from the book Python Crash Course by 
+Eric Matthews.
