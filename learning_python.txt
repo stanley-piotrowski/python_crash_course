@@ -1,0 +1,4 @@
+I love learning Python!
+Having a lot of experience using R certainly helps.
+I've really enjoyed learned about classes and inheritance in Python.
+I am looking forward to learning about different Python modules.
